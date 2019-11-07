@@ -1,0 +1,15 @@
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\bin\Release\Minefield1.exe.config
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\bin\Release\Minefield1.exe
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\bin\Release\Minefield1.pdb
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.csprojAssemblyReference.cache
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.MainForm.resources
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.NameInput.resources
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.Properties.Resources.resources
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.csproj.GenerateResource.cache
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.csproj.CoreCompileInputs.cache
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.exe
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.pdb
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\bin\Release\Minefield1.exe.manifest
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\bin\Release\Minefield1.application
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.exe.manifest
+C:\Users\ollegg\Documents\uni\MinefieldGame\Minefield1\Minefield1\obj\Release\Minefield1.application
